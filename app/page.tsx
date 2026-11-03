@@ -1,3 +1,4 @@
+// Home Page Component
 import RecipeCard from "./components/RecipeCard";
 import { recipes } from "./data/recipes";
 
